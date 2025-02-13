@@ -1,0 +1,3 @@
+seleniumbase
+bs4
+dotenv
