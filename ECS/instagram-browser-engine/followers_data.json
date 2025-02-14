@@ -1,0 +1,10 @@
+{
+    "users": [],
+    "big_list": false,
+    "page_size": 0,
+    "has_more": false,
+    "should_limit_list_of_followers": false,
+    "use_clickable_see_more": false,
+    "show_spam_follow_request_tab": false,
+    "status": "ok"
+}
